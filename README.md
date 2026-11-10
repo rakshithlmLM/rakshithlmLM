@@ -28,11 +28,10 @@
 <br>
 
 ### 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakshithlmLM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithlmLM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" alt="Top Languages" />
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakshithlmLM&show_icons=true&theme=blood&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithlmLM&layout=compact&theme=blood&hide_border=true" height="160" alt="Top Languages" />
+</p>
 <br>
 
 ### 🌐 Connect With Me
