@@ -1,12 +1,12 @@
-<h1 align="center">Hi, I'm Rakshith Kumar L M 👋</h1>
-<h3 align="center">AI & Machine Learning Engineer</h3>
+<p align="center">
+  <img src="banner.png" alt="Rakshith Kumar Banner" width="100%">
+</p>
 
-<!-- Updated to stable demolab server -->
-<div align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Deep+Learning;Natural+Language+Processing;Computer+Vision;Scalable+MLOps+Pipelines" alt="Typing effect" />
   </a>
-</div>
+</p>
 
 ---
 
@@ -19,7 +19,6 @@
 <br>
 
 ### 🛠️ Technology Stack
-<!-- Stable icon server -->
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cpp,bash,pytorch,tensorflow,scikit,opencv,docker,kubernetes,aws,gcp,git,postgres,mongodb,linux" alt="Tech Stack" />
