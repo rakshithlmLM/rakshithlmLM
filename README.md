@@ -1,12 +1,12 @@
-<!-- Animated Gradient Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Rakshith%20Kumar%20L%20M&fontSize=50&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=55&descSize=20" width="100%" />
-</div>
+<h1 align="center">Hi, I'm Rakshith Kumar L M 👋</h1>
+<h3 align="center">AI & Machine Learning Engineer</h3>
 
-<!-- Animated Typing Text -->
-<h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Deep+Learning;Natural+Language+Processing;Computer+Vision;Scalable+MLOps+Pipelines" alt="Typing SVG" /></a>
-</h3>
+<!-- Updated to stable demolab server -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Deep+Learning;Natural+Language+Processing;Computer+Vision;Scalable+MLOps+Pipelines" alt="Typing effect" />
+  </a>
+</div>
 
 ---
 
@@ -19,10 +19,10 @@
 <br>
 
 ### 🛠️ Technology Stack
-<!-- This automatically generates perfectly uniform, high-res icons -->
+<!-- Stable icon server -->
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,bash,pytorch,tensorflow,scikit,opencv,docker,kubernetes,aws,gcp,git,postgres,mongodb,linux" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,bash,pytorch,tensorflow,scikit,opencv,docker,kubernetes,aws,gcp,git,postgres,mongodb,linux" alt="Tech Stack" />
   </a>
 </div>
 
@@ -38,7 +38,7 @@
 
 ### 🌐 Connect With Me
 <div align="center">
-  <a href="https://linkedin.com/in/rakshithlmLM"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="mailto:rakshithlm456@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/rakshithlmLM"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="mailto:rakshithlm456@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
