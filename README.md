@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rakshith Kumar L M 👋</h1>
+<h1 align="center">Hi, I'm Rakshith Kumar👋</h1>
 <h3 align="center">AI & Machine Learning Engineer</h3>
 
 <!-- Updated to stable demolab server -->
