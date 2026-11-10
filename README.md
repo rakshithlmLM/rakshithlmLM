@@ -1,14 +1,7 @@
-<div style="background-image: url('https://raw.githubusercontent.com/rakshithlmLM/rakshithlmLM/main/background.jpg'); background-size: cover; background-position: center; padding: 20px; border-radius: 12px;">
+<div style="background-image: url('https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop'); background-size: cover; background-position: center; padding: 30px; border-radius: 12px;">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=header&text=UCHIHA%20ITACHI&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
-<h2 align="center"><em>"People live their lives bound by what they accept as correct and true. That is how they define reality."</em></h2>
+<h1 align="center"><font color="#FF0000">⛩️ RAKSHITH KUMAR L M ⛩️</font></h1>
+<h3 align="center"><em>"People live their lives bound by what they accept as correct and true. That is how they define reality."</em></h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rakshithlmLM&color=8B0000&style=for-the-badge&label=SHINOBI+VISITS" alt="Profile Views" />
@@ -17,9 +10,8 @@
 ---
 
 ### 👁️ About Me
-* 💻 **Name:** Rakshit Kumar L M
-* 🚀 **AIML Engineering Student & Developer**
-* 🩸 **Specialty:** Mastering Python, Data Science, and Machine Learning
+* 💻 **AIML Engineering Student & Developer**
+* 🩸 Mastering Python, Data Science, and Machine Learning
 * 🌑 *"Even the strongest of opponents always has a weakness."*
 
 ---
