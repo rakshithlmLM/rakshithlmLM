@@ -29,8 +29,12 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakshithlmLM&show_icons=true&theme=blood&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithlmLM&layout=compact&theme=blood&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshithlmLM&theme=blood&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/rakshithlmLM?style=for-the-badge&color=E60000&labelColor=0d1117&logo=github" />
+  <img src="https://img.shields.io/github/stars/rakshithlmLM?style=for-the-badge&color=E60000&labelColor=0d1117&logo=github" />
 </p>
 <br>
 
