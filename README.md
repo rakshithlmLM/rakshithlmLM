@@ -3,10 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF3333?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-FF9900?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-00E676?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scalable%20MLOps-00B0FF?style=for-the-badge&logo=docker&logoColor=white" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF3333&center=true&vCenter=true&width=600&lines=Deep+Learning;Natural+Language+Processing;Computer+Vision;Scalable+MLOps+Pipelines" alt="Typing effect" />
+  </a>
 </p>
 
 ---
