@@ -1,3 +1,5 @@
+<div style="background-image: url('https://raw.githubusercontent.com/rakshithlmLM/rakshithlmLM/main/background.jpg'); background-size: cover; background-position: center; padding: 20px; border-radius: 12px;">
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=200&section=header&text=UCHIHA%20ITACHI&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
@@ -6,7 +8,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-<h3 align="center"><em>"People live their lives bound by what they accept as correct and true. That is how they define reality."</em></h3>
+<h2 align="center"><em>"People live their lives bound by what they accept as correct and true. That is how they define reality."</em></h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rakshithlmLM&color=8B0000&style=for-the-badge&label=SHINOBI+VISITS" alt="Profile Views" />
@@ -15,8 +17,9 @@
 ---
 
 ### 👁️ About Me
-* 💻 **AIML Engineering Student & Developer**
-* 🩸 Mastering Python, Data Science, and Machine Learning
+* 💻 **Name:** Rakshit Kumar L M
+* 🚀 **AIML Engineering Student & Developer**
+* 🩸 **Specialty:** Mastering Python, Data Science, and Machine Learning
 * 🌑 *"Even the strongest of opponents always has a weakness."*
 
 ---
@@ -38,3 +41,5 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
+
+</div>
